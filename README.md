@@ -16,4 +16,4 @@ This is a Flask web app which predicts fare of Flight ticket.
 1. Downloaded Dataset from Kaggel
 2. Done Feature Engineering, Data preprocessing in Jupyter Notebook
 3. Made a  code file (app.py) for a web app.
-4. Deployed the project on Heroku
+
