@@ -1,0 +1,5 @@
+Pandas
+pickle
+sklearn
+flask
+flask-cors
